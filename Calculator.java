@@ -3,6 +3,7 @@ public class Calculator{
  public static void main(String[] args){
   
  }
+
  //Se creo metodo mod
  public static int mod(int a,int b){
     return a%b;   
@@ -20,5 +21,8 @@ public class Calculator{
   else
    return a/b;
  }
- 
+//Se creo metodo mul
+ public static double mul(double a, double b) {
+  return a*b;
+ }
 }

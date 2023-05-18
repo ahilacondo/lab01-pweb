@@ -35,10 +35,7 @@
    <tr><td colspan="3">Integrantes:
    <ul dir="auto">
    <li>Hilacondo Begazo Andre Jimmy</li>
-   <li>Layme Mamani Gonzalo Rail</li>
-   <li>Soto Ccoya Gabriel Eduardo</li>
-   <li>Delgado Allpan Andre David</li>
-   <li>Chirinos Negron Sebstian Arley</li>
+   <li>Alumno</li>
    </ul>
    </td>
    <td> NOTA: </td>
@@ -60,29 +57,27 @@
 <img src="https://github.com/ahilacondo/LAB01-PWEB2/blob/main/img/Commit.png?raw=true"/>
   - Captura del Contenido :
 <img src="https://github.com/ahilacondo/LAB01-PWEB2/blob/main/img/Contenido.PNG?raw=true"/>
-
 ##### - CHIRINOS NEGRON SEBASTIAN ARLEY
-- Link a Repositorio Individual: https://github.com/BastleyNait/PWEB02-B
- - Captura de Commits :
+- Link a Repositorio Individual: https://github.com/BastleyNait/PWEB02-B.git
+  - Captura de Commits :
 <img src="https://raw.githubusercontent.com/BastleyNait/InformacionIrrelevante/main/imagenes/b01cde1c-191d-4290-8d9d-a794db312bfc.jpg?"/>
- - Captura del Contenido :
+  - Captura del Contenido :
 <img src="https://raw.githubusercontent.com/BastleyNait/InformacionIrrelevante/main/imagenes/Captura%20de%20pantalla%202023-05-15%20230644.png"/>
-
 ##### - DELGADO ALLPAN, ANDRE DAVID
 - Link a Repositorio Individual: https://github.com/andre98652/proyecto.git
- - Captura de Commits :
+  - Captura de Commits :
 <img src="https://raw.githubusercontent.com/andre98652/proyecto/main/Imagen1.png"/>
- - Captura del Contenido :
+  - Captura del Contenido :
 <img src="https://raw.githubusercontent.com/andre98652/proyecto/main/Imagen12.png"/>
-
 ##### - LAYME MAMANI, GONZALO RAIL
 - Link a Repositorio Individual: https://github.com/GonzaloRail/Laboratorio_01_PWEB2.git
   - Captura de Commits :
 <img src="https://github.com/GonzaloRail/Laboratorio_01_PWEB2/blob/main/commit.jpg?raw=true"/>
-
 ##### - SOTO CCOYA GABRIEL EDUARDO
 - Link a Repositorio Individual: https://github.com/redXo/PPersonal_PW2.git
   - Captura de Commits :
+<img src=""/>
+  - Captura del Contenido :
 <img src="https://github.com/redXo/PPersonal_PW2/blob/main/WhatsApp%20Image%202023-05-16%20at%201.45.08%20PM.jpeg?raw=true"/>
    
 ### b) Repositorio Grupal
@@ -98,8 +93,7 @@
    <img src="https://github.com/ahilacondo/lab01-pweb/blob/main/img/Commit2.PNG?raw=true"/>
    <img src="https://github.com/ahilacondo/lab01-pweb/blob/main/img/Commit3.PNG?raw=true"/>
    <br><span>BRANCHES</span>
-   <img src="https://github.com/ahilacondo/lab01-pweb/blob/main/img/branches.PNG?raw=true"/>
-    
+  <img src="https://github.com/ahilacondo/lab01-pweb/blob/main/img/branches.PNG?raw=true"/>
           
           
           
@@ -107,6 +101,29 @@
    
   - **¿Por qué Git es una herramienta importante en el curso de Programación Web 2?**
       <br>En resumen, Git es una herramienta importante en el curso de Programación Web 2 debido a su capacidad de control de versiones, colaboración, despliegue continuo, ramificación y almacenamiento remoto. El dominio de Git es fundamental para los desarrolladores web, ya que les permite trabajar de manera eficiente en proyectos colaborativos y mantener un flujo de trabajo ordenado y organizado.</br>
+  - **¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones?**
+
+       1.  Transparencia en las modificaciones.
+    
+	   2.  Respeto a las licencias y derechos de autor.
+    
+	   3.  Confidencialidad en la información sensible.
+    
+       4.  No modificar o eliminar registros sin justificación.
+    
+       5.  Comunicación transparente con el equipo.
+    
+       6.  Reconocer y corregir errores.
+    
+       7.  Respetar las políticas de seguridad de la organización.
+    
+       8.  No utilizar el sistema de manera inapropiada.
+
+ 
+
+-  **¿Qué son los estándares de codificación?**
+    <br>Los estándares de codificación son un conjunto de reglas y convenciones que se utilizan para escribir código de manera consistente y uniforme. Estos estándares incluyen recomendaciones sobre la nomenclatura de variables, la indentación, la longitud de las líneas de código, el uso de comentarios, entre otros aspectos. Los estándares de codificación se utilizan para mejorar la legibilidad, la comprensión y la mantenibilidad del código, así como para facilitar el trabajo en equipo y la revisión de código para poder crear un código más entendible y mantenible.</br>
+    
    <h2>III. CONCLUSIONES</h2>
    <ul>
       <li>El uso de Git y las ramas en Git permite una gestión eficiente del desarrollo de software, ya que facilita la colaboración en equipo y el trabajo en paralelo en diferentes funcionalidades o experimentos sin afectar la rama principal.</li>
@@ -115,4 +132,3 @@
    <h1>RETROALIMENTACION GENERAL</h1>
    <h1>REFERENCIA Y BIBLIOGRAFIA</h1>
    <i>[1] "GitHub.com Help Documentation". GitHub Docs. [Online]. Available: https://docs.github.com/es</i>
-

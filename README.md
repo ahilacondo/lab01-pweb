@@ -1,4 +1,4 @@
-table>
+<table>
   <tbody>
    <tr>
    <td><img src="https://github.com/rescobedoq/pw2/blob/main/epis.png?raw=true"></td>
